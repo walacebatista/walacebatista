@@ -8,8 +8,8 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=a855f7&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&color=7c3aed)
+![Visitas](https://komarev.com/ghpvc/?username=walacebatista&label=Visitas&color=a855f7&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/walacebatista?style=for-the-badge&logo=github&color=7c3aed)
 
 </div>
 
@@ -71,10 +71,10 @@ Me chamo **Walace Fonseca**, sou natural do **Rio de Janeiro** e formado em **An
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=walacebatista&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacebatista&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=walacebatista&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 
 </div>
 
@@ -84,8 +84,8 @@ Me chamo **Walace Fonseca**, sou natural do **Rio de Janeiro** e formado em **An
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 📊 [Dashboard de Vendas BI](https://github.com/SEU_USUARIO/dashboard-vendas-bi) | Dashboard com KPIs e análise de vendas | `Power BI` `SQL` |
-| 🎫 [Dashboard de Chamados de TI](https://github.com/SEU_USUARIO/dashboard-chamados) | Indicadores de chamados com dados fictícios | `HTML` `JavaScript` `Chart.js` |
+| 📊 [Dashboard de Vendas BI](https://github.com/walacebatista/dashboard-vendas-bi) | Dashboard com KPIs e análise de vendas | `Power BI` `SQL` |
+| 🎫 [Dashboard de Chamados de TI](https://github.com/walacebatista/dashboard-chamados) | Indicadores de chamados com dados fictícios | `HTML` `JavaScript` `Chart.js` |
 
 ---
 
