@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walace-batista-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6A0DAD?style=for-the-badge&logo=githubpages&logoColor=white)](https://SEU-USUARIO.github.io)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6A0DAD?style=for-the-badge&logo=githubpages&logoColor=white)]([https://SEU-USUARIO.github.io](https://github.com/walacebatista))
 
 ![Visitas](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=6A0DAD&style=flat-square)
 
