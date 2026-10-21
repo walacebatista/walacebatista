@@ -92,7 +92,7 @@ Se você trabalha com dados, BI ou quer trocar ideias sobre carreira em TI, vai 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walace-batista-/)
 
 
 </div>
