@@ -74,8 +74,8 @@ Minha base em **suporte, infraestrutura e segurança da informação** me dá um
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=walacebatista&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacebatista&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" alt="Linguagens mais usadas" />
 
 <br/>
 
