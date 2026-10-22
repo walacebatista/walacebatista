@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4479A1&center=true&vCenter=true&width=700&height=45&lines=Analista+de+Dados;Business+Intelligence+(BI);SQL+%7C+MySQL+%7C+Power+BI;7+anos+de+experi%C3%AAncia+em+TI;Transformando+dados+em+decis%C3%B5es+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<img src="./assets/dados-animado.svg" alt="Consulta SQL e gráfico animado" width="100%" />
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walace-batista-/)
