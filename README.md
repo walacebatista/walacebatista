@@ -59,17 +59,6 @@ Minha base em **suporte, infraestrutura e segurança da informação** me dá um
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 📈 [**Dashboard de Vendas BI**](https://github.com/SEU-USUARIO/dashboard-vendas-bi) | Dashboard interativo com KPIs de vendas e visão por período | `Power BI` `SQL` |
-| 🎫 [**Dashboard de Chamados de TI**](https://github.com/SEU-USUARIO/dashboard-chamados) | Painel de indicadores de chamados (dados fictícios) | `HTML` `Chart.js` |
-
-> 💡 Troque os links acima pelos endereços reais dos seus repositórios.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
