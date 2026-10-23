@@ -29,19 +29,6 @@ Tenho **7 anos de experiência em TI**, com foco crescente na área de **dados**
 
 Minha base em **suporte, infraestrutura e segurança da informação** me dá uma visão completa do ambiente em que os dados são gerados e utilizados.
 
-💜 Apaixonado por tecnologia, busco evoluir na carreira em **análise de dados e BI**.
-
----
-
-## 🎯 Em foco
-
-- 🔭 Aprofundando em **Business Intelligence** e dashboards
-- 🗄️ Evoluindo em **SQL Server** e modelagem de dados
-- 🎓 Planejando uma **pós-graduação/MBA** em dados
-- 💬 Aberto a conversas, networking e oportunidades em **dados e BI**
-
----
-
 ## 🤖 Linguagens e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_sql.svg" alt="SQL" title="SQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="48" height="48" />
