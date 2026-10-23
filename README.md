@@ -44,11 +44,11 @@ Minha base em **suporte, infraestrutura e segurança da informação** me dá um
 
 ## 🤖 Linguagens e Tecnologias
 
-<img src="./assets/icons/sql.svg" alt="SQL" title="SQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_sql.svg" alt="SQL" title="SQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="48" height="48" />
 
 ## 📊 BI e Dados
 
-<img src="./assets/icons/powerbi.svg" alt="Power BI" title="Power BI" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="./assets/icons/excel.svg" alt="Excel" title="Excel" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_powerbi.svg" alt="Power BI" title="Power BI" width="48" height="48" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_excel.svg" alt="Excel" title="Excel" width="48" height="48" />
 
 ## 🛠️ Ferramentas e Infraestrutura
 
