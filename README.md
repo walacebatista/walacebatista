@@ -62,7 +62,7 @@ Dashboard de vendas com indicadores de desempenho, visão por período e anális
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-[👉 Ver repositório](https://github.com/walacebatista/dashboard-vendas-bi)
+[👉 Ver repositório](https://github.com/walacebatista/Dashboard_Financeiro_BI_teste)
 
 </td>
 </tr>
